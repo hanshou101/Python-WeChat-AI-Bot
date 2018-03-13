@@ -1,0 +1,9 @@
+1.你需要一个集成的Linux工具+环境包。
+
+2.在这里下载：https://pentestbox.org/zh/#download
+
+3.默认安装在C:/PentestBox/
+
+4.双击打开PentestBox.exe
+
+5.此时，你就拥有了一个比虚拟机要快得多的运行环境！！！而且可以在U盘里面运行，进行十八般武艺的操作。
